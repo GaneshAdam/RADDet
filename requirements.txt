@@ -4,4 +4,4 @@ numpy==1.18.5
 matplotlib==3.3.1
 scikit-learn==0.23.2
 tqdm==4.50.2
-libxrender1==0.9.10
+libxrender==0.9.10
