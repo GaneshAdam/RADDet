@@ -4,8 +4,8 @@ import os
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
 os.environ["CUDA_VISIBLE_DEVICES"]="0"
 
-print("Import done: Success!!")
-exit(0)
+while 1:
+    print("Import done: Success!!")
 
 import shutil
 import cv2
